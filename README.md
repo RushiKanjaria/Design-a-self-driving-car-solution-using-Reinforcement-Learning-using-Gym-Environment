@@ -4,7 +4,7 @@ The internship period was of 6 weeks, started from 11th may 2020, and ended at 1
 This project was given to us as a part of internship. We would like to thank leadingindia.ai for giving us an opportunity. 
 It was a wonder experience and would recommend evreyone to take part in the events organised by leadingindia.ai.
 We were being mentored by Dr. Hirenkumar B Thakkar sir throughout this internship.
-The team members are as follows:
+The team members are as follows: 
 Rushi Kanjaria, Marwadi University
 Kala Hemanth, Aditya Engineering College
 K. Jhansi Naga Indusri, V R Siddhartha engineering college
