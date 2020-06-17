@@ -5,9 +5,9 @@ This project was given to us as a part of internship. We would like to thank lea
 It was a wonder experience and would recommend evreyone to take part in the events organised by leadingindia.ai.
 We were being mentored by Dr. Hirenkumar B Thakkar sir throughout this internship.
 The team members are as follows: 
-Rushi Kanjaria, Marwadi University
-Kala Hemanth, Aditya Engineering College
-K. Jhansi Naga Indusri, V R Siddhartha engineering college
-Apoorva Jindal, Techno India NJR Institute of Technology
-Nagasuri Alekhya, R.V.R & J.C College Of Engineering
-In this project We are creating a simulation of a self driving car using the reinforcement learning and using the gym environment. we will be initiating the "Taxi-v3" environment from OpenAi gym. We will apply two methods to solve this environment and then compare the performance of both the methods. We have used Google Colab to implement train and test these methods.
+Rushi Kanjaria from Marwadi University; 
+Kala Hemanth from Aditya Engineering College; 
+K. Jhansi Naga Indusri from V R Siddhartha engineering college; 
+Apoorva Jindal from Techno India NJR Institute of Technology; 
+Nagasuri Alekhya from R.V.R & J.C College Of Engineering; 
+ In this project We are creating a simulation of a self driving car using the reinforcement learning and using the gym environment. we will be initiating the "Taxi-v3" environment from OpenAi gym. We will apply two methods to solve this environment and then compare the performance of both the methods. We have used Google Colab to implement train and test these methods.
