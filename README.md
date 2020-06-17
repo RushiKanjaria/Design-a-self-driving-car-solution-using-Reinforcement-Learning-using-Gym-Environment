@@ -1,2 +1,2 @@
 # Design-a-self-driving-car-solution-using-Reinforcement-Learning-using-Gym-Environment
-We are creating a simulation of a self driving car using the reinforcement learning and using the gym environmenr.
+We are creating a simulation of a self driving car using the reinforcement learning and using the gym environment. we will be initiating the "Taxi-v3" environment from OpenAi gym. We will apply two methods to solve this environment and then compare the performance of both the methods. We have used Google Colab to implement train and test these methods.
